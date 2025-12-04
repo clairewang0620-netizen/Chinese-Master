@@ -1,0 +1,7 @@
+{
+  "name": "PandaFluent - Learn Chinese",
+  "description": "A premium Chinese learning application featuring vocabulary, dialogues, AI-powered pronunciation, and a smart mistake review system. Designed for international learners.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
